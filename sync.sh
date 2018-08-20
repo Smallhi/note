@@ -1,4 +1,4 @@
-comment=$1
+comment=$*
 echo $comment
 
 git add .
