@@ -6,4 +6,4 @@ git add .
 git commit -m "[#hhl $comment]"
 git push
 
-
+#todo git config
