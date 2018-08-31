@@ -4,6 +4,5 @@ echo $comment
 
 git add .
 git commit -m "[#hhl $comment]"
-git push
-
+git push --set-upstream origin master
 #todo git config
